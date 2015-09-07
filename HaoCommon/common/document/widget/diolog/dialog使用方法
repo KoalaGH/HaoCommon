@@ -1,0 +1,10 @@
+参考自    https://github.com/H07000223/FlycoDialog_Master
+效果可以见  app工程中的DialogDemoActivity
+
+NormalDialog             普通dialog含标题内容及两个底部按钮
+NormalTipDialog          普通dialog含标题内容及一个底部按钮
+NormalDialog             MD 风格 dialog含标题内容及两个底部按钮
+MaterialTipDialog        MD 风格 dialog含标题内容及一个底部按钮
+ActionSheetDialog        底部弹出列表的对话框
+
+

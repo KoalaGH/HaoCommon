@@ -5,9 +5,9 @@ import android.widget.TextView;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
+import cn.haoyunbang.common.ui.BaseActivity;
 import cn.haoyunbang.common.widget.log.LogUtil;
 import cn.haoyunbang.haocommon.R;
-import cn.haoyunbang.haocommon.ui.BaseActivity;
 
 /**
  * Created by fangxiao on 15/9/7.

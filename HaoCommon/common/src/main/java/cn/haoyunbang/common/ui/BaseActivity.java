@@ -1,4 +1,4 @@
-package cn.haoyunbang.haocommon.ui;
+package cn.haoyunbang.common.ui;
 
 import android.app.Activity;
 import android.os.Bundle;
