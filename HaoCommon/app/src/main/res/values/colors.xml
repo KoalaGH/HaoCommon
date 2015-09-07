@@ -1,0 +1,35 @@
+<resources>
+    <color name="font_white">#ffffff</color>
+    <color name="font_black">#333333</color>
+    <color name="font_crimson">#454443</color>
+    <color name="font_red">#DE4C33</color>
+    <color name="font_gray">#888888</color>
+    <color name="font_light_gray">#979797</color>
+    <color name="font_light_gray_title">#cccccc</color>
+    <color name="font_lighter_gray">#bbbbbb</color>
+    <color name="font_light_line_gray">#eeeeee</color>
+    <color name="font_lightest_gray">#F8F8F8</color>
+    <color name="font_yellow">#c0ffff00</color>
+    <color name="font_light_yellow">#FED074</color>
+    <color name="font_light_quluanpink">#FF8587</color>
+    <color name="font_yellowgreen">#C8CC4D</color>
+    <color name="font_purple">#8F91EC</color>
+    <color name="font_dark_green">#53d790</color>
+    <color name="font_dark_purple">#c28aee</color>
+    <color name="font_darker_purple">#a38dfc</color>
+    <color name="font_blue">#00ccff</color>
+    <color name="font_dark_blue">#64BDE0</color>
+    <color name="font_content_black">#6b5b4b</color>
+    <color name="font_group_black">#6b5b4b</color>
+    <color name="font_light_black">#505050</color>
+    <color name="font_green">#AEE768</color>
+    <color name="font_orange">#F6C671</color>
+    <color name="font_light_orange">#FFB88A</color>
+    <color name="font_daycheck">#6bd0ff</color>
+    <color name="font_daymedicine">#93d52b</color>
+    <color name="font_dayread">#fb847e</color>
+    <color name="font_peoplechat">#ffcd69</color>
+    <color name="font_doctoranswer">#3ACDD4</color>
+    <color name="font_daysymptom">#ffae90</color>
+
+</resources>
